@@ -89,7 +89,7 @@ para funcionar preciso colocar text-align: center no elemento pai
 }
 
 #switch button:hover {
-  outline: 1px solid var(--highlight-color);
+  outline: 8px solid var(--highlight-color);
 }
 
 #switch span {
